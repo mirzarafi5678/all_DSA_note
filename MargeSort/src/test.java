@@ -64,6 +64,6 @@ public class test {
         solution ss = new solution();
 
         ss.marge(arr , 0 , arr.length-1);
-        System.out.println(Arrays.toString(arr));
+      System.out.println(Arrays.toString(arr));
     }
 }
